@@ -5,4 +5,7 @@ Plugin actuellement en dévellopement !
 
 Aucune Commande.
 
-**Me**
+**Me Contacter :**
+
+Mail : leloup.of@gmail.com
+Discord : Leloup67#2426
