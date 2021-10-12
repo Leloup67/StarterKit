@@ -1,5 +1,5 @@
 # StarterKit
-Plugin de Kit lors de la première connexion sur le serveur. Entièrement configurable !
+Plugin qui donne un Kit lors de la première connexion sur le serveur. Entièrement configurable !
 
 Plugin actuellement en dévellopement !
 
